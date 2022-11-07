@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Tomris Theme",
+  "description": "This is a theme for Google Chrome.",
+  "version": "1.0.0",
+
+  "theme": {
+    "colors": {
+      "frame": [118, 36, 36],
+      "frame_inactive": [118, 36, 36],
+      "frame_incognito": [118, 36, 36],
+      "frame_incognito_inactive": [118, 36, 36],
+
+      "bookmark_text": [255, 255, 255],
+
+      "tab_background_text": [255, 255, 255],
+      "tab_background_text_inactive": [255, 255, 255],
+      "tab_background_text_incognito": [255, 255, 255],
+      "tab_background_text_incognito_inactive": [255, 255, 255],
+      "tab_text": [255, 255, 255],
+
+      "toolbar": [29, 23, 34],
+      "toolbar_button_icon": [255, 255, 255],
+
+      "omnibox_text": [255, 255, 255],
+      "omnibox_background": [29, 23, 34],
+
+      "ntp_background": [29, 23, 34],
+      "ntp_link": [255, 255, 255],
+      "ntp_text": [255, 255, 255]
+    }
+  }
+}
