@@ -3,6 +3,11 @@
   "name": "Tomris Theme",
   "description": "This is a theme for Google Chrome.",
   "version": "1.0.0",
+  "icon": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
 
   "theme": {
     "colors": {
