@@ -2,8 +2,8 @@
   "manifest_version": 3,
   "name": "Tomris Theme",
   "description": "This is a theme for Google Chrome.",
-  "version": "1.0.0",
-  "icon": {
+  "version": "1.0.1",
+  "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
     "128": "images/icon128.png"
@@ -11,10 +11,10 @@
 
   "theme": {
     "colors": {
-      "frame": [118, 36, 36],
-      "frame_inactive": [118, 36, 36],
-      "frame_incognito": [118, 36, 36],
-      "frame_incognito_inactive": [118, 36, 36],
+      "frame": [100, 5, 5],
+      "frame_inactive": [100, 5, 5],
+      "frame_incognito": [100, 5, 5],
+      "frame_incognito_inactive": [100, 5, 5],
 
       "bookmark_text": [255, 255, 255],
 
